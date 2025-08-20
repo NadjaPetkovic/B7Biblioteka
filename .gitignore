@@ -1,0 +1,16 @@
+# Executable files
+divisible_by_digit_sum
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+*~
+.tmp/
